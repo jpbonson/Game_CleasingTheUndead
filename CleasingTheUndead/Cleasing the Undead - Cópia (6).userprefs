@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Controls.cs">
+    <Files>
+      <File FileName="Assets\Scripts\MeleeEnemyControl.cs" Line="272" Column="39" />
+      <File FileName="Assets\Scripts\ScaleTexture.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Controls.cs" Line="27" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
