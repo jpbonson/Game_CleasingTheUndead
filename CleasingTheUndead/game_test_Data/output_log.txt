@@ -1,0 +1,21 @@
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.2049]
+    Renderer: NVIDIA GeForce GTX 660M
+    Vendor:   NVIDIA
+    VRAM:     1994 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1680x1050 59Hz; virtual: 1680x1050 at 0,0
+Initialize engine version: 3.5.5f3
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Files\Dalhousie\Fall Term\CSCI 4168 - Game Design and Development\Cleasing the Undead\game_test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Files\Dalhousie\Fall Term\CSCI 4168 - Game Design and Development\Cleasing the Undead\game_test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Files\Dalhousie\Fall Term\CSCI 4168 - Game Design and Development\Cleasing the Undead\game_test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Files\Dalhousie\Fall Term\CSCI 4168 - Game Design and Development\Cleasing the Undead\game_test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.156 seconds
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1564. Operation took 14.361163 ms.
+Platform assembly: F:\Files\Dalhousie\Fall Term\CSCI 4168 - Game Design and Development\Cleasing the Undead\game_test_Data\Managed\System.Core.dll (this message is harmless)
