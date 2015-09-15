@@ -1,17 +1,35 @@
 GfxDevice: creating device client; threaded=1
 Direct3D:
-    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.2049]
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.4411]
     Renderer: NVIDIA GeForce GTX 660M
     Vendor:   NVIDIA
-    VRAM:     1994 MB (via DXGI)
+    VRAM:     1990 MB (via DXGI)
     Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
 <RI> Initializing input.
 <RI> Input initialized.
-desktop: 1680x1050 59Hz; virtual: 1680x1050 at 0,0
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
 Initialize engine version: 3.5.5f3
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\jpbonson\Documents\GitHub\game_CleasingTheUndead\CleasingTheUndead_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\jpbonson\Documents\GitHub\game_CleasingTheUndead\CleasingTheUndead_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\jpbonson\Documents\GitHub\game_CleasingTheUndead\CleasingTheUndead_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\jpbonson\Documents\GitHub\game_CleasingTheUndead\CleasingTheUndead_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-- Completed reload, in  0.050 seconds
+Platform assembly: C:\Users\jpbonson\Game_CleasingTheUndead\Executable\CleasingTheUndead_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\jpbonson\Game_CleasingTheUndead\Executable\CleasingTheUndead_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\jpbonson\Game_CleasingTheUndead\Executable\CleasingTheUndead_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\jpbonson\Game_CleasingTheUndead\Executable\CleasingTheUndead_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.042 seconds
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2789. Operation took 11.920783 ms.
+Platform assembly: C:\Users\jpbonson\Game_CleasingTheUndead\Executable\CleasingTheUndead_Data\Managed\System.Core.dll (this message is harmless)
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Look rotation viewing vector is zero
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/ExportGenerated/StandalonePlayer/Math.cpp Line: 53)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 196 unused Assets to reduce memory usage. Loaded Objects now: 2806. Operation took 13.629808 ms.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 217 unused Assets to reduce memory usage. Loaded Objects now: 2805. Operation took 14.419172 ms.
